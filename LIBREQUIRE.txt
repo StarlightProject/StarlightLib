@@ -1,0 +1,7 @@
+#####Please install these libraries before using StarlightLib!#####
+
+1.SDL2
+
+2.SDL2_image
+
+###################################################################
